@@ -13,5 +13,5 @@ This project is a simple clone of the Netflix homepage, created using HTML and C
 
 ## Technologies Used
 
-HTML5: For structuring the content.
-CSS3: For styling the content, including Flexbox and Grid for layout.
+-HTML5 for structuring the content.
+-CSS3 for styling the content, including Flexbox and Grid for layout.
