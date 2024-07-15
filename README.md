@@ -6,12 +6,8 @@ This project is a simple clone of the Netflix homepage, created using HTML and C
 
 ## Features
 
-- Responsive Design: The layout adjusts to different screen sizes, providing a seamless experience on mobile, tablet, and desktop devices.
--Navigation Bar: A fixed navigation bar at the top of the page that includes the Netflix logo, search bar, and user profile icon.
--Hero Section: A featured content section at the top of the page with a large background image, title, and description.
--Footer: A footer with links to various informational pages like Help Center, Terms of Service, and Privacy Policy.
-
-## Technologies Used
-
--HTML5 for structuring the content.
--CSS3 for styling the content, including Flexbox and Grid for layout.
+- Responsive design that works desktop
+- A fixed navigation bar at the top of the page that includes the Netflix logo, search bar, and user profile icon.
+- A featured content section at the top of the page with a large background image, title, and description.
+- Email section
+- Footer with multiple sections
