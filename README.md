@@ -6,7 +6,7 @@ This project is a simple clone of the Netflix homepage, created using HTML and C
 
 ## Features
 
-- Responsive design that works desktop
+- Responsive design that works on desktop
 - A fixed navigation bar at the top of the page that includes the Netflix logo, search bar, and user profile icon.
 - A featured content section at the top of the page with a large background image, title, and description.
 - Email section
